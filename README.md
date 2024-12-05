@@ -31,3 +31,8 @@
 	```sh
 	docker-compose down
 	```
+
+	## Technologies Used
+
+	- None.js
+	- VueJS
