@@ -4,7 +4,7 @@
 
 1. Clone the repository:
 	```sh
-	git clone https://github.com/your-username/mars-rover-project.git
+	git clone https://github.com/eduardo-fp1/mars-rover-project.git
 	```
 	```sh
 	cd mars-rover-project
