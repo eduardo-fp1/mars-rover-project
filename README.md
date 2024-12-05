@@ -2,12 +2,13 @@
 
 ## Running the application locally.
 
-1. Clone the repository:
+1. Download the repository:
+	
+- First, do the download the zip repository and do the unzip.
+- Navigate to the directory
+
 	```sh
-	git clone https://github.com/eduardo-fp1/mars-rover-project.git
-	```
-	```sh
-	cd mars-rover-project
+	cd mars-rover-project-main
 	```
 
 2. Build and run the project with Docker:
@@ -32,7 +33,23 @@
 	docker-compose down
 	```
 
-	## Technologies Used
+## Technologies Used
 
-	- None.js
-	- VueJS
+- None.js
+- VueJS
+
+## Automated tests with Jest
+
+1. Runing the tests
+
+- Navigate to the directory
+
+	```sh
+	cd backend
+	``` 
+
+- Run command
+
+	```sh
+	npm test
+	```
